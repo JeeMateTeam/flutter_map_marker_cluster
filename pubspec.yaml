@@ -14,7 +14,10 @@ dependencies:
     sdk: flutter
 
   latlong2: ^0.8.0
-  flutter_map_marker_popup: ^0.2.0
+  flutter_map_marker_popup:
+    git:
+      url: https://github.com/JeeMateTeam/flutter_map_marker_popup.git
+      ref: master
 
 dev_dependencies:
   flutter_test:
