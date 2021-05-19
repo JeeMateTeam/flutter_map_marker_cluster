@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  latlong2: ^0.8.0
+  latlong2: any
   flutter_map_marker_popup:
     git:
       url: https://github.com/JeeMateTeam/flutter_map_marker_popup.git
